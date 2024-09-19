@@ -24,3 +24,7 @@
 8. 'git commit' -> registers staging changes to a commit
 
 9. 'git log' -> list down all commit of the repository. if you want to exit the git log prompt press 'q'.
+
+10. 'git restores <file>' -> it removes all file changes from the staging area to be committed
+
+11. 'git restore --staged <file>' -> it remove file from changes from staging area to the working area
