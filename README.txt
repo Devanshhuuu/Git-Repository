@@ -32,3 +32,9 @@
 12. diff between git rm and git restore
     ans: when we need to convert the whole file back to untracked then we do git rm. otherwise to move 
     betwwen staging and working area we do git restore
+
+13. git diff -> used to know the difference between two commited versions
+
+14. 'git commit -m"<your commit message>"' -> if we want to avoid opeing of the vimo/nano code editor for commit message
+
+    d8538270c05028271365149ea3b681215b0c8114    e6e1b1b6ca7e4085e5b539647a590eb2ef5a3841
