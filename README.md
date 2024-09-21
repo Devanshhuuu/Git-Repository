@@ -68,3 +68,4 @@ git recommended practice to do
 -git push.
 -git pull.
 
+23. Merge conflicts are very common scenerio
