@@ -64,7 +64,7 @@ git recommended practice to do
 -make changes
 -git add <file>
 -git commit
--git pull
+
 -git push.
 -git pull.
--git push
+
