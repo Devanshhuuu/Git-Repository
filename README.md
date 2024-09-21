@@ -51,3 +51,7 @@
 19. 'git remote add <name of remote> <link of remote>' -> this commmand helps us to add a new link to the remote repo and give a name to it
 
 NOTE : the name of the remote connection is always used to establish communnication between repos.
+
+20. 'git add <file1> <file2> <file3>' -> this commad will add multiple file changes together in the staging area
+
+21. 'git add .' -> this command will add all files from working repo to staging area
