@@ -66,3 +66,5 @@ git recommended practice to do
 -git commit
 -git pull
 -git push.
+-git pull.
+-git push
