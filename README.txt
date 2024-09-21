@@ -38,3 +38,16 @@
 14. 'git commit -m"<your commit message>"' -> if we want to avoid opeing of the vimo/nano code editor for commit message
 
     d8538270c05028271365149ea3b681215b0c8114    e6e1b1b6ca7e4085e5b539647a590eb2ef5a3841
+
+
+15. 'git remote' -> list down all the connection names
+
+16. 'Remote connection' -> it  helps you to link two git repositories for uploading and downloading changes from each otherwise 
+
+17. ' git remote rm <name of remote>' -> this command deletes a remote connection
+
+18. ' git remote rename <oldname> <newname>' -> this command renames the git remote
+
+19. 'git remote add <name of remote> <link of remote> ' -> this commmand helps us to add a new link to the remote repo and give a name to it
+
+NOTE : the name of the remote connection is always used to establish communnication between repos.
