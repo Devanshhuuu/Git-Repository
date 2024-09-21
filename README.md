@@ -68,3 +68,6 @@ git recommended practice to do
 -git push.
 -git pull.
 
+
+
+merge conflicts can occur if multiple people try to make changes to the same file.
