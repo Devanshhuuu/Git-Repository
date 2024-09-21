@@ -68,6 +68,7 @@ git recommended practice to do
 -git push.
 -git pull.
 
+23. Merge conflicts are very common scenerio
 
 
 merge conflicts can occur if multiple people try to make changes to the same file.
