@@ -33,7 +33,7 @@
     ans: when we need to convert the whole file back to untracked then we do git rm. otherwise to move 
     betwwen staging and working area we do git restore
 
-13. git diff -> used to know the difference between two commited versions
+13. 'git diff' -> used to know the difference between two commited versions
 
 14. 'git commit -m"<your commit message>"' -> if we want to avoid opeing of the vimo/nano code editor for commit message
 
@@ -44,10 +44,10 @@
 
 16. 'Remote connection' -> it  helps you to link two git repositories for uploading and downloading changes from each otherwise 
 
-17. ' git remote rm <name of remote>' -> this command deletes a remote connection
+17. 'git remote rm <name of remote>' -> this command deletes a remote connection
 
-18. ' git remote rename <oldname> <newname>' -> this command renames the git remote
+18. 'git remote rename <oldname> <newname>' -> this command renames the git remote
 
-19. 'git remote add <name of remote> <link of remote> ' -> this commmand helps us to add a new link to the remote repo and give a name to it
+19. 'git remote add <name of remote> <link of remote>' -> this commmand helps us to add a new link to the remote repo and give a name to it
 
 NOTE : the name of the remote connection is always used to establish communnication between repos.
